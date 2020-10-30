@@ -1,0 +1,15 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "async tutorial",
+  "main": "async.js",
+  "scripts": {
+    "start": "node async",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matio",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
